@@ -1,1 +1,1 @@
-Software,operaing-system, hardware brochure
+Software,operaing-system,hardware brochure
